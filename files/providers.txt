@@ -1,0 +1,14 @@
+EDP;0.15;0.23
+Endesa;0.16;0.22
+GoldEnergy;0.17;0.21
+Iberdrola;0.18;0.20
+Galp;0.19;0.19
+Coopernico;0.20;0.18
+Enat;0.21;0.17
+YIce;0.22;0.16
+MEO Energia;0.23;0.15 
+Muon;0.24;0.14
+Luzboa;0.25;0.13
+Energia Simples;0.26;0.12
+SU Electricidade;0.27;0.11
+EDA;0.28;0.10

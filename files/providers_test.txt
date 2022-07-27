@@ -1,0 +1,5 @@
+EDP;0.15;0.23
+Endesa;0.16;0.23
+GoldEnergy;0.17;0.23
+Iberdrola;0.18;0.23
+Galp;0.19;0.23
